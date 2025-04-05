@@ -1,7 +1,6 @@
 # 📋 Sistema de Cadastro em Python
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 Um sistema de cadastro via terminal com persistência em CSV, desenvolvido como projeto final do **Mundo 3** do Curso em Vídeo.
 
@@ -19,7 +18,6 @@ Um sistema de cadastro via terminal com persistência em CSV, desenvolvido como 
 - Módulos nativos:
   - `csv` para manipulação de arquivos
   - `os` para verificação de caminhos
-- ANSI escape codes para cores no terminal
 
 ## 🚀 Como Executar
 
@@ -44,19 +42,3 @@ python app.py
     │   └── layout/
     ├── app.py
     └── README.md
-
-
-### 🔍 Elementos Incluídos:
-1. **Badges** - Ícones visuais para versão/licença
-2. **GIF/Imagem** *(opcional)* - Adicione um screenshot do terminal em ação
-3. **Seção de Features** - Destaque suas inovações
-4. **Passos claros** para execução
-5. **Mapa do projeto** - Mostra organização profissional
-
-### 💡 Dicas Extras:
-- Adicione um **gif demonstrativo** usando [ScreenToGif](https://www.screentogif.com/)
-- Inclua um **exemplo de uso** na seção de Features:
-  ```python
-  >>> Name: João
-  >>> Age: 25
-  [SUCCESS] João adicionado(a) com sucesso!

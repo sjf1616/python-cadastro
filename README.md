@@ -37,15 +37,13 @@ cd cadastro-python
 python app.py
 ```
 
-## 📂 Estrutura do Projeto:
-
-cadastro-python/
-├── src/
-│   ├── data/          # Lógica de manipulação de CSV
-│   └── layout/        # Componentes de interface
-├── app.py             # Ponto de entrada
-├── requirements.txt   # Dependências
-└── README.md          # Documentação
+## 📂 Estrutura do Projeto
+    cadastro-python/
+    ├── src/
+    │   ├── data/
+    │   └── layout/
+    ├── app.py
+    └── README.md
 
 
 ### 🔍 Elementos Incluídos:

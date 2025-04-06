@@ -23,7 +23,7 @@ Um sistema de cadastro via terminal com persistência em CSV, desenvolvido como 
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/cadastro-python.git
+git clone https://github.com/sjf1616/cadastro-python.git
 ```
 
 2. Acesse a pasta do projeto:
